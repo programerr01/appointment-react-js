@@ -2,6 +2,6 @@
  Appointment Scheduler App with Reactjs and Nodejs
 
  ## Screenshots
-[](screen.png)
-[](screen1.png)
-[](screen2.png)
+ ![ screenshot](screen.png) 
+  ![ screenshot](screen1.png) 
+   ![ screenshot](screen2.png) 
